@@ -13,7 +13,8 @@
 ![image](https://github.com/gn01842919/2013-Machine-Learning-and-Bioinformatics/blob/master/result-me.bmp)
 
 不過大家之所以能夠打敗大盤，主要原因應該是不計手續費，而且保證買得到/賣得掉之類的，所以可以買/空超多檔股票。
-(多年後我才搞懂這些股票常識)
+
+(多年後我才知道這些股票常識)
 
 最後這是我曾經擁有的績效:
 
