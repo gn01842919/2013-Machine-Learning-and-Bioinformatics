@@ -2,6 +2,8 @@
 
 # 用機器學習決定股票投資策略 - 一些心得
 
+碩班感畢業為了畢業研究忙得焦頭爛額時，被**用機器學習選股票**這種感覺超級厲害超實用的授課方式吸引，硬著頭皮修了這門課。
+
 這是期末大家的成績
 
 ![image](https://github.com/gn01842919/2013-Machine-Learning-and-Bioinformatics/blob/master/result-full.bmp)
