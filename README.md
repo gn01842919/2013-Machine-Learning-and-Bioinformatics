@@ -1,6 +1,8 @@
 # 2013-Machine-Learning-and-Bioinformatics
 
-# 期末大家的成績
+# 用機器學習決定股票投資策略 - 一些心得
+
+這是期末大家的成績
 
 ![image](https://github.com/gn01842919/2013-Machine-Learning-and-Bioinformatics/blob/master/result-full.bmp)
 
